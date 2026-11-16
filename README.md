@@ -7,7 +7,7 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 ---
 
 ## Evaluating capabilities
-- [ ] [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
+- [x] [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 
 ## Evaluating alignment
 - [ ] [Alignment faking in large language models](https://arxiv.org/abs/2412.14093)
