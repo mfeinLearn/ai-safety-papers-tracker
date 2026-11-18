@@ -7,10 +7,10 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 ---
 
 ## Evaluating capabilities
-- [x] [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](summaries/2311.12022-gpqa.md)
+- [x] [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](summaries/2311.12022-gpqa.md) -- come back
 
 ## Evaluating alignment
-- [ ] [Alignment faking in large language models](summaries/2412.14093-alignment-faking.md)
+- [x] [Alignment faking in large language models](summaries/2412.14093-alignment-faking.md)
 - [ ] [Strategic under-reporting of capabilities](summaries/2406.07358-strategic-under-reporting.md)
 
 ## Understanding model cognition
