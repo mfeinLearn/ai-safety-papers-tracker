@@ -14,7 +14,7 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 - [x] [Strategic under-reporting of capabilities](summaries/2406.07358-strategic-under-reporting.md)
 
 ## Understanding model cognition
-- [ ] [Towards Understanding Sycophancy in Language Models](summaries/2310.13548-sycophancy.md)
+- [x] [Towards Understanding Sycophancy in Language Models](summaries/2310.13548-sycophancy.md)
 - [ ] [Situational Awareness](summaries/2407.04694-situational-awareness.md)
 - [ ] [Auditing / red-teaming searches](summaries/2406.04341-auditing-searches.md)
 - [ ] [Chain-of-Thought Prompting (Wei et al., 2022)](summaries/2201.11903-chain-of-thought.md)
