@@ -11,7 +11,7 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 
 ## Evaluating alignment
 - [x] [Alignment faking in large language models](summaries/2412.14093-alignment-faking.md)
-- [ ] [Strategic under-reporting of capabilities](summaries/2406.07358-strategic-under-reporting.md)
+- [x] [Strategic under-reporting of capabilities](summaries/2406.07358-strategic-under-reporting.md)
 
 ## Understanding model cognition
 - [ ] [Towards Understanding Sycophancy in Language Models](summaries/2310.13548-sycophancy.md)
