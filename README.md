@@ -25,7 +25,7 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 - [ ] [Pan et al., 2024 – Introspection](summaries/2412.08686-pan-et-al-2024.md)
 
 ## Chain-of-thought faithfulness
-- [ ] [Language Models Don't Always Say What They Think (NeurIPS 2023)](summaries/language-models-dont-always-say-what-they-think.md)
+- [x] [Language Models Don't Always Say What They Think (NeurIPS 2023)](summaries/language-models-dont-always-say-what-they-think.md)
 - [x] [Lanham et al., 2023](summaries/2307.13702-lanham-et-al-2023.md)
 - [ ] [Mills et al., 2024](summaries/2312.12747-mills-et-al-2024.md)
 - [ ] [Radhakrishnan et al., 2023](summaries/2307.11768-radhakrishnan-et-al-2023.md)
