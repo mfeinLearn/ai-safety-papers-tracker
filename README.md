@@ -30,7 +30,7 @@ Check the boxes as you read each paper. Source: [alignment.anthropic.com/2025/re
 - [x] [Mills et al., 2024](summaries/2312.12747-mills-et-al-2024.md)
 - [x] [Radhakrishnan et al., 2023](summaries/2307.11768-radhakrishnan-et-al-2023.md)
 - [x] [Chen et al., 2024](summaries/2401.13986-chen-et-al-2024-cot.md)
-- [ ] [Chua et al., 2024](summaries/2403.05518-chua-et-al-2024.md)
+- [x] [Chua et al., 2024](summaries/2403.05518-chua-et-al-2024.md)
 
 ## AI control
 - [ ] [Greenblatt et al., 2023 – AI Control](summaries/2312.06942-greenblatt-et-al-2023.md)
